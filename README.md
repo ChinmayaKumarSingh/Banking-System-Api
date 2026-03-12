@@ -31,9 +31,7 @@ Example Request:
 }
 ## 📬 Postman Collection
 
+You can test APIs using the Postman collection below.
+
 [Download Postman Collection](postman/banking-api.postman_collection.json)
-## 📸 API Testing
 
-### Get Accounts API
-
-![Get Accounts](screenshots/api-get-accounts.png)
