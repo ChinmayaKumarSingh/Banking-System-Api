@@ -1,4 +1,4 @@
-
+![Banking System API](project-banner.png.jpg)
 # Banking System API
 
 A Spring Boot backend project that simulates a simple online banking system.
