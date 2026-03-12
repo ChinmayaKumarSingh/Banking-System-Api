@@ -1,0 +1,17 @@
+{
+ "info": {
+  "name": "Banking System API",
+  "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+ },
+ "item": [
+  {
+   "name": "Get Accounts",
+   "request": {
+    "method": "GET",
+    "url": {
+     "raw": "http://localhost:8080/accounts"
+    }
+   }
+  }
+ ]
+}
