@@ -29,6 +29,9 @@ Example Request:
  "name": "John",
  "balance": 5000
 }
+## 📬 Postman Collection
+
+[Download Postman Collection](postman/banking-api.postman_collection.json)
 ## 📸 API Testing
 
 ### Get Accounts API
