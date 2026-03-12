@@ -29,3 +29,8 @@ Example Request:
  "name": "John",
  "balance": 5000
 }
+## 📸 API Testing
+
+### Get Accounts API
+
+![Get Accounts](screenshots/api-get-accounts.png)
